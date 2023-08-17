@@ -1,2 +1,11 @@
-﻿Project,Designation,StartYear,EndYear,Reference,URL,PI
-"Project1","The First Example Project",2020,2023,"NORTE-01-0001-AAAAA-00001",https://www.researchgate.net/lab/CyberGECAD-Isabel-Praca,"ICP"
+﻿Project,StartYear,EndYear,Designation,Reference,URL,PI
+"CANOPY",2022,2023,"Cognitive and Automated Network Operations for Present and Beyond","AI2021/1-1","https://www.celticnext.eu/project-canopy/","ICP"
+"iCare4NextG",2021,2023,"Integrated Care for Next Generation","C2020/1-8","https://www.celticnext.eu/project-icare4nextg/","ICP"
+"ForPharmacy",2021,2023,"Future Pharmacy as a Plug-and-Play Ecosystem","POCI-01-0247-FEDER-070053","https://transparencia.gov.pt/pt/fundos-europeus/pt2020/beneficiarios-projetos/projeto/POCI-01-0247-FEDER-070053/","ICP"
+"Cybers SeC IP",2020,2023,"Cybersecurity Scientific Competences and Innovation Potential","NORTE-01-0145-FEDER-000044","https://transparencia.gov.pt/pt/fundos-europeus/pt2020/beneficiarios-projetos/projeto/NORTE-01-0145-FEDER-000044/","ICP"
+"VALU3S",2020,2023,"Verification and Validation of Automated Systems' Safety and Security","876852","https://cordis.europa.eu/project/id/876852","ICP"
+"CyberFactory#1",2019,2022,"Opportunities and Threats for the Factory of the Future","NORTE-01-0247-FEDER-40124","https://itea3.org/project/cyberfactory-1.html","ICP"
+"SeCoIIA",2019,2022,"Secure Collaborative Intelligent Industrial Assets","871967","https://cordis.europa.eu/project/id/871967","ICP"
+"SATIE",2019,2021,"Security of Air Transport Infrastructure of Europe","832969","https://cordis.europa.eu/project/id/832969","ICP"
+"SPET",2018,2022,"Secure Interactions and Trusted Participation in Local Electricity Trading","PTDC/EEI-EEE/29165/2017","https://app.dimensions.ai/details/grant/grant.9567229","ICP"
+"SAFECARE",2018,2021,"Safeguard of Critical Health Infrastructure","787002","https://cordis.europa.eu/project/id/787002","ICP"

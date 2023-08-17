@@ -1,4 +1,4 @@
-# Team Files
+# Public Files
 
 The repository for files made publicly accessible by our team.  
 &copy; Copyright 2023 GECAD/ISEP/IPP  
