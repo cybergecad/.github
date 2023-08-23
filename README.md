@@ -15,4 +15,4 @@ The list of the peer-reviewed scientific publications of our team, per project.
 The different versions of our team logo, for light and dark color schemes.  
 
 &rarr; [Wallpaper](https://github.com/cybergecad/.github/tree/main/wallpaper)  
-The different versions of our current wallpaper, for standard formats.  
+The different versions of our current wallpaper, for common aspect ratios.  
